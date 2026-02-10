@@ -44,4 +44,4 @@ The system is divided into three high-level modules designed for low-latency emb
     ```
 
 ## 🎯 Target Hardware
-Designed for deployment on high-performance embedded platforms such as **Jetson Nano**, **Raspberry Pi 4**, or **ESP32-S3** (with quantization).
+Designed for deployment on high-performance embedded platforms such as **Jetson Nano**, **Raspberry Pi 4** (with quantization).
